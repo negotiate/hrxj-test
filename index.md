@@ -2,7 +2,14 @@
 
 [UAT内网](https://www.pgyer.com/pmobile_uat_n)
 
-[UAT外网](https://www.pgyer.com/pmobile_uat_w)
+
+2021年6月29日[UAT外网包](https://www.pgyer.com/pmobile_uat_w)更新内容
+
+1.新网设备指纹SDK
+
+2.华新秒贷 闪贷提示
+
+<!-- [UAT外网](https://www.pgyer.com/pmobile_uat_w) -->
 
 [准生产内网](https://www.pgyer.com/pmobile_zsc_n)
 
@@ -16,9 +23,15 @@
 
 2.更新隐私政策
 
+2021年6月29日[UAT外网包](https://www.pgyer.com/dsbank_uat_w)更新内容
+
+1.新网设备指纹SDK
+
+2.华新秒贷 闪贷提示
+
 <!-- [UAT内网](https://www.pgyer.com/dsbank_uat) -->
 
-[UAT外网](https://www.pgyer.com/dsbank_uat_w)
+<!-- [UAT外网](https://www.pgyer.com/dsbank_uat_w) -->
 
 [准生产内网](https://www.pgyer.com/dsbank_zsc)
 
