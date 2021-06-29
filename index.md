@@ -10,10 +10,13 @@
 
 ## 直销android测试包下载
 
-更新内容
+2021年6月29日[UAT内网包](https://www.pgyer.com/dsbank_uat)更新内容
+
 1.神策SDK 全埋点 登录
+
 2.更新隐私政策
-[UAT内网](https://www.pgyer.com/dsbank_uat)
+
+<!-- [UAT内网](https://www.pgyer.com/dsbank_uat) -->
 
 [UAT外网](https://www.pgyer.com/dsbank_uat_w)
 
