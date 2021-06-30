@@ -3,11 +3,10 @@
 [UAT内网](https://www.pgyer.com/pmobile_uat_n)
 
 
-2021年6月29日[UAT外网包](https://www.pgyer.com/pmobile_uat_w)更新内容
+2021年6月30日[UAT外网包](https://www.pgyer.com/pmobile_uat_w)更新内容
 
-1.新网设备指纹SDK
+1.给新网webview放开定位
 
-2.华新秒贷 闪贷提示
 
 <!-- [UAT外网](https://www.pgyer.com/pmobile_uat_w) -->
 
