@@ -10,6 +10,7 @@
 | [手机ZSC外网](https://www.pgyer.com/pmobile_zsc_w)  | 2021-07-08 | 权益平台定位 |
 
 **有问题请先看下面**
++ 非特殊情况请不要对wifi设置代理
 + 中心服务器发生错误
   + 请检查内网包连Wlan-wifi 外网包连Hrxj_Bank
 + 请求超时，请稍后重试 
