@@ -4,6 +4,8 @@
 | [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2021-07-06 | 神策全埋点 登录 |
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2021-07-08 | 神策全埋点 登录 |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2021-07-09 | 神策全埋点 登录 |
+| [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2021-07-12 | 半年前的 |
+| [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2021-07-12 | 半年前的 |
 <!-- | [手机UAT内网](https://www.pgyer.com/pmobile_uat_n) |  2021-07-06| 社保,房抵贷SDK更新 |
 | [手机UAT外网](https://www.pgyer.com/pmobile_uat_w)  | 2021-07-06 | 社保,房抵贷SDK更新 |
 | [手机ZSC内网](https://www.pgyer.com/pmobile_zsc_n)  | 2021-07-08 | 权益平台定位 |
