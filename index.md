@@ -4,10 +4,10 @@
 | [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2021-07-06 | 神策全埋点 登录 |
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2021-07-08 | 神策全埋点 登录 |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2021-07-09 | 神策全埋点 登录 |
-| [手机UAT内网](https://www.pgyer.com/pmobile_uat_n) |  2021-07-06| 社保,房抵贷SDK更新 |
+<!-- | [手机UAT内网](https://www.pgyer.com/pmobile_uat_n) |  2021-07-06| 社保,房抵贷SDK更新 |
 | [手机UAT外网](https://www.pgyer.com/pmobile_uat_w)  | 2021-07-06 | 社保,房抵贷SDK更新 |
 | [手机ZSC内网](https://www.pgyer.com/pmobile_zsc_n)  | 2021-07-08 | 权益平台定位 |
-| [手机ZSC外网](https://www.pgyer.com/pmobile_zsc_w)  | 2021-07-08 | 权益平台定位 |
+| [手机ZSC外网](https://www.pgyer.com/pmobile_zsc_w)  | 2021-07-08 | 权益平台定位 | -->
 
 **有问题请先看下面**
 + 非特殊情况请不要对wifi设置代理
@@ -15,11 +15,11 @@
   + 请检查内网包连Wlan-wifi 外网包连Hrxj_Bank
 + 请求超时，请稍后重试 
   + 有服务没起来，你只能等。
-+ com.csii.pe.core.PeRuntimeException
-  + 群里问下，可能是在发版。
+<!-- + com.csii.pe.core.PeRuntimeException
+  + 群里问下，可能是在发版。 -->
 + 通讯异常，请稍后再试
   + esb发版
-+ 手机银行有任何问题
-  + 请联系王孝经-大哥
+<!-- + 手机银行有任何问题
+  + 请联系王孝经-大哥 -->
 + 直销银行有任何问题
   + 请联系刘君欢-刘总
