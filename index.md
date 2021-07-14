@@ -5,7 +5,7 @@
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2021-07-08 | 神策全埋点 登录 |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2021-07-09 | 神策全埋点 登录 |
 | [直销生产未加固](https://www.pgyer.com/dsbank_release) | 2021-07-14 | 神策全埋点 登录|
-| [手机生产未加固](https://www.pgyer.com/pmobile_release) | 2021-07-14 | 社保SDK更新 房抵贷SDK更新 权益平台放开定位|
+| [手机生产未加固](https://www.pgyer.com/pmobile_release) | 2021-07-14 23:32 | 社保SDK更新 房抵贷SDK更新 权益平台放开定位|
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2021-07-12 | 半年前的 |
 | [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2021-07-12 | 半年前的 |
 
