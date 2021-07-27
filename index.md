@@ -1,7 +1,7 @@
 |  包   | 更新时间  | 内容  |
 |  ----  | ----  |----  |
 | [直销UAT内网](https://www.pgyer.com/dsbank_uat)  | 2021-07-05 | 神策全埋点 登录 |
-| [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2021-07-20 | 秒贷优化 新网链接查询接口抛错 |
+| [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2021-07-27 | 秒贷修复 缺陷单号：QX202107622 |
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2021-07-08 | 神策全埋点 登录 |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2021-07-09 | 神策全埋点 登录 |
 | [直销生产](https://www.pgyer.com/dsbank_release) | 2021-07-16 11:11| 神策全埋点 登录 加固|
