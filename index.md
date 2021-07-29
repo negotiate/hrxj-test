@@ -5,7 +5,7 @@
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2021-07-08 | 神策全埋点 登录 |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2021-07-09 | 神策全埋点 登录 |
 | [直销生产](https://www.pgyer.com/dsbank_release) | 2021-07-16 11:11| 神策全埋点 登录 加固|
-| [手机生产](https://www.pgyer.com/pmobile_release) | 2021-07-29 11:03 | 数字人民币 隐私政策|
+| [手机生产](https://www.pgyer.com/pmobile_release) | 2021-07-29 16:29 | 数字人民币 隐私政策 已加固|
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2021-07-12 | 半年前的 |
 | [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2021-07-12 | 半年前的 |
 | [手机UAT外网](https://www.pgyer.com/pmobile_uat_w)  | 2021-07-23 | 修复数字人民币兼容性问题 |
