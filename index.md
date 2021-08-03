@@ -11,6 +11,8 @@
 | [手机UAT外网](https://www.pgyer.com/pmobile_uat_w)  | 2021-07-23 | 修复数字人民币兼容性问题 |
 | [手机ZSC外网](https://www.pgyer.com/pmobile_zsc_w)  | 2021-07-29 | 数字人民币 隐私政策 |
 
+**友情链接**
++ [直销银行IOS](http://d.7short.com/hrxjubank)
 
 **有问题请先看下面**
 + 非特殊情况请不要对wifi设置代理
