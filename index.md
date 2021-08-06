@@ -3,10 +3,10 @@
 | [直销UAT内网](https://www.pgyer.com/dsbank_uat)  | 2021-08-02 | 神策vx埋点 |
 | [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2021-08-04 | 华新秒贷修复 |
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2021-07-08 | 神策全埋点 登录 |
-| [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2021-07-09 | 神策全埋点 登录 |
+| [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2021-08-06 | 华新秒贷 神策js |
 | [直销生产](https://www.pgyer.com/dsbank_release) | 2021-07-16 11:11| 神策全埋点 登录 加固|
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2021-07-30 | 隐私政策更新 |
-| [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2021-07-12 | 半年前的 |
+| [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2021-08-06 | 隐私政策更新 |
 
 **友情链接**
 + [直销银行IOS](http://d.7short.com/hrxjubank)
