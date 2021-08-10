@@ -8,6 +8,7 @@
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2021-07-30 | 隐私政策更新 |
 | [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2021-08-06 | 隐私政策更新 |
 | [手机银行ZSC外网](https://www.pgyer.com/pmobile_zsc_w)   | 2021-08-06 | 华新秒贷 |
+| [手机银行UAT外网](https://www.pgyer.com/pmobile_uat_w)   | 2021-08-06 | 华新秒贷 |
 
 **友情链接**
 + [直销银行IOS](http://d.7short.com/hrxjubank)
