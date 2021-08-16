@@ -4,13 +4,13 @@
 | [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2021-08-06 | 修复 |
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2021-07-08 | 神策全埋点 登录 |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2021-08-06 | 华新秒贷 神策js |
-| [直销生产测试包](https://www.pgyer.com/dsbank_release) | 2021-08-12 | 神策vx埋点 华新秒贷 新网设备指纹|
+| [直销生产测试包](https://www.pgyer.com/dsbank_release) | 2021-08-16 | 神策vx埋点 华新秒贷 新网设备指纹 已加固|
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2021-07-30 | 隐私政策更新 |
 | [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2021-08-06 | 隐私政策更新 |
 | [企业生产测试包](https://www.pgyer.com/qyBank_release)   | 2021-08-12 | 隐私政策更新 |
 | [手机银行ZSC外网](https://www.pgyer.com/pmobile_zsc_w)   | 2021-08-06 | 华新秒贷 |
 | [手机银行UAT外网](https://www.pgyer.com/pmobile_uat_w)   | 2021-08-06 | 华新秒贷 |
-| [手机银行生产测试包](https://www.pgyer.com/pmobile_release)   | 2021-08-12 | 新网设备指纹 |
+| [手机银行生产测试包](https://www.pgyer.com/pmobile_release)   | 2021-08-16 | 新网设备指纹 已加固|
 
 **友情链接**
 + [直销银行IOS](http://d.7short.com/hrxjubank)
