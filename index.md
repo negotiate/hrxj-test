@@ -1,7 +1,7 @@
 |  包   | 更新时间  | 内容  |
 |  ----  | ----  |----  |
-| [直销UAT内网](https://www.pgyer.com/dsbank_uat)  | 2021-08-31 | 注册修复 |
-| [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2021-08-31 | 注册修复 |
+| [直销UAT内网](https://www.pgyer.com/dsbank_uat)  | 2021-09-01 | 一键注册补上温馨提示 |
+| [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2021-09-01 | 一键注册补上温馨提示 |
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2021-07-08 | 神策全埋点 登录 |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2021-08-06 | 华新秒贷 神策js |
 | [直销生产测试包](https://www.pgyer.com/dsbank_release) | 2021-08-16 | 神策vx埋点 华新秒贷 新网设备指纹 已加固|
