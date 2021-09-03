@@ -6,7 +6,7 @@
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2021-08-06 | 华新秒贷 神策js |
 | [直销生产测试包](https://www.pgyer.com/dsbank_release) | 2021-08-16 | 神策vx埋点 华新秒贷 新网设备指纹 已加固|
 | [直销回归测试UAT外网](https://www.pgyer.com/dsbank_uat_regression) | 2021-09-03 | 上个月的包可用于本月回归测试|
-| [直销回归测试ZSC外网](https://www.pgyer.com/dsbank_zsc_regression) | 2021-09-03 | 上个月的包可用于本月回归测试|
+| [直销回归测试ZSC外网](https://www.pgyer.com/dsbank_z_regression) | 2021-09-03 | 上个月的包可用于本月回归测试|
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2021-07-30 | 隐私政策更新 |
 | [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2021-08-06 | 隐私政策更新 |
 | [企业生产测试包](https://www.pgyer.com/qyBank_release)   | 2021-08-12 | 隐私政策更新 |
