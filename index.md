@@ -14,6 +14,7 @@
 
 **友情链接**
 + [直销银行IOS](http://d.7short.com/hrxjubank)
++ [手机银行IOS](http://d.7short.com/hrxjpmbank)
 
 **有问题请先看下面**
 + 非特殊情况请不要对wifi设置代理
