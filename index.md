@@ -2,11 +2,11 @@
 |  ----  | ----  |----  |
 | [直销UAT内网](https://www.pgyer.com/dsbank_uat)  | 2021-09-01 | 一键注册补上温馨提示 |
 | [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2021-09-02 | 闪贷合同倒计时规则修改 |
-| [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2021-07-08 | 神策全埋点 登录 |
-| [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2021-08-06 | 华新秒贷 神策js |
+| [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2021-09-10 | 9月版 |
+| [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2021-09-10 | 9月版 |
 | [直销生产测试包](https://www.pgyer.com/dsbank_release) | 2021-08-16 | 神策vx埋点 华新秒贷 新网设备指纹 已加固|
-| [直销回归测试UAT外网](https://www.pgyer.com/dsbank_u_regressio) | 2021-09-03 | 上个月的包可用于本月回归测试|
-| [直销回归测试ZSC外网](https://www.pgyer.com/dsbank_z_regressio) | 2021-09-03 | 上个月的包可用于本月回归测试|
+| [直销回归测试UAT外网](https://www.pgyer.com/dsbank_u_regressio) | 2021-09-03 | 8月的包可用于9月回归测试|
+| [直销回归测试ZSC外网](https://www.pgyer.com/dsbank_z_regressio) | 2021-09-03 | 8月的包可用于9月回归测试|
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2021-07-30 | 隐私政策更新 |
 | [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2021-08-06 | 隐私政策更新 |
 | [企业生产测试包](https://www.pgyer.com/qyBank_release)   | 2021-08-12 | 隐私政策更新 |
