@@ -1,7 +1,7 @@
 |  包   | 更新时间  | 内容  |
 |  ----  | ----  |----  |
 | [直销UAT内网](https://www.pgyer.com/dsbank_uat)  | 2021-09-01 | 一键注册补上温馨提示 |
-| [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2021-09-27 | 直销银行10月版本 |
+| [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2021-10-08 | 秒贷修复三个缺陷01 02 09 |
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2021-09-10 | 9月版 |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2021-09-10 | 9月版 |
 | [直销生产测试包](https://www.pgyer.com/dsbank_release) | 2021-09-15 | 闪贷合同 权限提醒 未加固|
