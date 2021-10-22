@@ -4,7 +4,7 @@
 | [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2021-10-08 | 秒贷修复三个缺陷01 02 09 |
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2021-09-10 | 9月版 |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2021-10-13 | 10月版 |
-| [直销生产测试包](https://www.pgyer.com/dsbank_release) | 2021-10-20 | 10月版|
+| [直销生产测试包](https://www.pgyer.com/dsbank_release) | 2021-10-22 | 10月生产包 已加固|
 | [直销回归测试UAT外网](https://www.pgyer.com/dsbank_u_regressio) | 2021-10-08 | 9月版旧包|
 | [直销回归测试ZSC外网](https://www.pgyer.com/dsbank_z_regressio) | 2021-10-08 | 9月版旧包|
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2021-07-30 | 隐私政策更新 |
