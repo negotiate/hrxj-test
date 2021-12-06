@@ -1,7 +1,7 @@
 |  包   | 更新时间  | 内容  |
 |  ----  | ----  |----  |
 | [直销UAT内网](https://www.pgyer.com/dsbank_uat)  | 2021-09-01 | 一键注册补上温馨提示 |
-| [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2021-11-08 | 华新秒贷借款申请相机和麦克风权限 |
+| [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2021-12-06 | 更新隐私政策 秒贷优化|
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2021-09-10 | 9月版 |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2021-11-11 | 11月版 修复基金标题|
 | [直销生产测试包](https://www.pgyer.com/dsbank_release) | 2021-11-19 | 11月生产包 已加固|
