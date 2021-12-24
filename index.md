@@ -5,6 +5,7 @@
 | [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2021-12-06 | 更新隐私政策 秒贷优化|
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2021-12-23 | 活体改造V2 |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2021-12-10 | 12月版 更新隐私政策 秒贷优化|
+| [直销ZSC内网回归测试包](https://www.pgyer.com/dsbank_z_regressio)  | 2021-12-23 | 9月份的 用于回归测试 |
 | [直销生产测试包](https://www.pgyer.com/dsbank_release) | 2021-12-21 | 12月生产包 已加固|
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2021-07-30 | 隐私政策更新 |
 | [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2021-08-06 | 隐私政策更新 |
