@@ -1,8 +1,8 @@
 |  包   | 更新时间  | 内容  |
 |  ----  | ----  |----  |
-| [直销UAT内网](https://www.pgyer.com/dsbank_uat)  | 2022-02-14 | 贷款资金用途佐证上传 |
+| [直销UAT内网](https://www.pgyer.com/dsbank_uat)  | 2022-02-14 | 贷款资金用途佐证上传 更新说明内容 |
 | [直销UAT内网回归测试](https://www.pgyer.com/dsbank_u_regressio)  | 2021-12-21 | 上个月的 用于回归测试|
-| [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2022-02-14 | 贷款资金用途佐证上传|
+| [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2022-02-14 | 贷款资金用途佐证上传 更新说明内容|
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2022-01-07 | 1月版 |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2022-01-07 | 1月版|
 | [直销ZSC内网回归测试包](https://www.pgyer.com/dsbank_z_regressio)  | 2021-12-23 | 9月份的 用于回归测试 |
