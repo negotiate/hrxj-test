@@ -9,7 +9,7 @@
 | [直销生产测试包](https://www.pgyer.com/dsbank_release) | 2022-01-17 | 去掉融安贷 秒贷加/ 已加固|
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2021-07-30 | 隐私政策更新 |
 | [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2021-08-06 | 隐私政策更新 |
-| [企业生产测试包](https://www.pgyer.com/qyBank_release)   | 2021-08-12 | 隐私政策更新 |
+| [企业生产测试包](https://www.pgyer.com/qyBank_release)   | 2022-02-22 | android 12兼容 |
 
 
 **友情链接**
