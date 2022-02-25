@@ -4,9 +4,9 @@
 | [直销UAT内网回归测试](https://www.pgyer.com/dsbank_u_regressio)  | 2021-12-21 | 上个月的 用于回归测试|
 | [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2022-02-15 | 贷款资金用途佐证上传 秒贷|
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2022-02-21 | 更新提示语 |
-| [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2022-02-18 | 贷款资金用途佐证上传 秒贷 |
+| [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2022-02-25 | 秒贷修复 |
 | [直销ZSC内网回归测试包](https://www.pgyer.com/dsbank_z_regressio)  | 2021-02-18 | 1月版 |
-| [直销生产测试包](https://www.pgyer.com/dsbank_release) | 2022-02-24 | 二月版 未加固|
+| [直销生产测试包](https://www.pgyer.com/dsbank_release) | 2022-02-25 | 二月版 未加固 秒贷修复|
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2021-07-30 | 隐私政策更新 |
 | [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2021-08-06 | 隐私政策更新 |
 | [企业生产测试包](https://www.pgyer.com/qyBank_release)   | 2022-02-22 | android 12兼容 |
