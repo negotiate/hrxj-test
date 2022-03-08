@@ -1,8 +1,8 @@
 |  包   | 更新时间  | 内容  |
 |  ----  | ----  |----  |
-| [直销UAT内网](https://www.pgyer.com/dsbank_uat)  | 2022-02-28 | 回溯|
+| [直销UAT内网](https://www.pgyer.com/dsbank_uat)  | 2022-03-08 | 三月版|
 | [直销UAT内网回归测试](https://www.pgyer.com/dsbank_u_regressio)  | 2021-02-28 | 上个月的 |
-| [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2022-02-28 | 回溯|
+| [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2022-03-08 | 三月版|
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2022-02-21 | 更新提示语 |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2022-02-25 | 秒贷修复 |
 | [直销ZSC内网回归测试包](https://www.pgyer.com/dsbank_z_regressio)  | 2021-02-18 | 1月版 |
