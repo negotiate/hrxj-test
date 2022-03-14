@@ -11,6 +11,8 @@
 | [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2021-08-06 | 隐私政策更新 |
 | [企业生产测试包](https://www.pgyer.com/qyBank_release)   | 2022-02-22 | android 12兼容 |
 
+**国密**
+| [企业UAT国密](https://www.pgyer.com/qyBank_gm)   | 2022-03-14 | 国密 |
 
 **友情链接**
 + [直销银行IOS](http://d.7short.com/hrxjubank)
