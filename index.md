@@ -10,6 +10,7 @@
 | [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2021-08-06 | 隐私政策更新 |
 | [企业生产测试包](https://www.pgyer.com/qyBank_release)   | 2022-02-22 | android 12兼容 |
 | [企业UAT国密](https://www.pgyer.com/qyBank_gm)   | 2022-03-14 | 国密 |
+| [直销UAT外网国密](https://www.pgyer.com/dsbank_u_regressio)  | 2021-03-16 | 直销国密 |
 
 <!-- | [直销UAT内网回归测试](https://www.pgyer.com/dsbank_u_regressio)  | 2021-02-28 | 上个月的 | -->
 <!-- | [直销ZSC内网回归测试包](https://www.pgyer.com/dsbank_z_regressio)  | 2021-02-18 | 1月版 | -->
