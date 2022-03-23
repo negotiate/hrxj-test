@@ -6,7 +6,7 @@
 | [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2022-03-15 | 理财 bug修复|
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2022-03-18 | 三月版 |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2022-03-18 | 三月版 |
-| [直销生产测试包](https://www.pgyer.com/dsbank_release) | 2022-02-28 | 二月版 已加固|
+| [直销生产测试包](https://www.pgyer.com/dsbank_release) | 2022-03-23 | 三月版 未加固|
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2021-07-30 | 隐私政策更新 |
 | [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2021-08-06 | 隐私政策更新 |
 | [企业生产测试包](https://www.pgyer.com/qyBank_release)   | 2022-02-22 | android 12兼容 |
