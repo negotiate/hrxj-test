@@ -13,6 +13,8 @@
 | [企业UAT国密](https://www.pgyer.com/qyBank_gm)   | 2022-03-14 | 国密 |
 | [手机银行国密UAT内网](https://www.pgyer.com/pmobile_gmUATN)   | 2022-03-23 | 国密 |
 | [手机银行国密UAT外网](https://www.pgyer.com/pmobile_gmUATW)   | 2022-03-23 | 国密 |
+| [个人手机银行蓝牙飞天](https://www.pgyer.com/pmobile_ft)   | 2022-03-25 | 蓝牙飞天 |
+| [企业手机银行蓝牙飞天](https://www.pgyer.com/qyBank_ft)   | 2022-03-25 | 蓝牙飞天 |
 
 
 <!-- | [直销UAT内网回归测试](https://www.pgyer.com/dsbank_u_regressio)  | 2021-02-28 | 上个月的 | -->
