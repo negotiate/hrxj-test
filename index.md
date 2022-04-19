@@ -6,7 +6,7 @@
 | [直销UAT外网回归测试](https://www.pgyer.com/dsbank_u_regressio)  | 2021-03-15 | 2月版 |
 | [直销ZSC外网回归测试包](https://www.pgyer.com/dsbank_z_regressio)  | 2021-03-18 | 2月版 |
 | [直销UAT内网](https://www.pgyer.com/dsbank_uat)  | 2022-04-06 | ROOT检测|
-| [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2022-04-18 | 首页热门理财优化|
+| [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2022-04-19 | 首页左上角点击无效 热门理财优化|
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2022-03-18 | 三月版 |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2022-04-07 | ROOT检测 |
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2021-07-30 | 隐私政策更新 |
