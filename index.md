@@ -7,7 +7,7 @@
 | [直销UAT外网国密](https://www.pgyer.com/dsbank_gm)  | 2021-04-22 | 直销国密回退 |
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2021-07-30 | 隐私政策更新 |
 | [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2022-04-22 | 卡检 |
-| [企业ZSC](https://www.pgyer.com/qyBank_release)   | 2022-04-26 | 卡检 生产未加固 |
+| [企业生产包](https://www.pgyer.com/qyBank_release)   | 2022-04-26 | 卡检 生产未加固 |
 
 **友情链接**
 + [直销银行IOS](http://d.7short.com/hrxjubank)
