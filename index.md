@@ -3,22 +3,10 @@
 |  包   | 更新时间  | 内容  |
 |  ----  | ----  |----  |
 | [直销生产包](https://www.pgyer.com/dsbank_release)  | 2022-04-11 | 已加固 |
-| [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2022-04-21 | 四月版 |
+| [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2022-04-26 | 四月版 |
 | [直销UAT外网国密](https://www.pgyer.com/dsbank_gm)  | 2021-04-22 | 直销国密回退 |
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2021-07-30 | 隐私政策更新 |
 | [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2022-04-22 | 卡检 |
-<!-- | [企业UAT国密](https://www.pgyer.com/qyBank_gm)   | 2022-03-14 | 国密 |
-| [手机银行国密UAT内网](https://www.pgyer.com/pmobile_gmUATN)   | 2022-03-23 | 国密 |
-| [手机银行国密UAT外网](https://www.pgyer.com/pmobile_gmUATW)   | 2022-03-23 | 国密 | -->
-<!-- | [直销UAT外网回归测试](https://www.pgyer.com/dsbank_u_regressio)  | 2021-03-15 | 2月版 |
-| [直销ZSC外网回归测试包](https://www.pgyer.com/dsbank_z_regressio)  | 2021-03-18 | 2月版 |
-| [直销UAT内网](https://www.pgyer.com/dsbank_uat)  | 2022-04-06 | ROOT检测|
-| [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2022-04-19 | 首页左上角点击无效 热门理财优化|
-| [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)  | 2022-03-18 | 三月版 | -->
-
-<!-- | [直销UAT内网回归测试](https://www.pgyer.com/dsbank_u_regressio)  | 2021-02-28 | 上个月的 | -->
-<!-- | [直销ZSC内网回归测试包](https://www.pgyer.com/dsbank_z_regressio)  | 2021-02-18 | 1月版 | -->
-<!-- | [直销UAT外网国密](https://www.pgyer.com/dsbank_u_regressio)  | 2021-03-16 | 直销国密 | -->
 
 **友情链接**
 + [直销银行IOS](http://d.7short.com/hrxjubank)
