@@ -5,9 +5,8 @@
 | [直销生产包](https://www.pgyer.com/dsbank_release)  | 2022-04-28 | 四月版 生产已加固 |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2022-04-26 | 四月版 |
 | [直销UAT外网国密](https://www.pgyer.com/dsbank_gm)  | 2021-04-22 | 直销国密回退 |
-| [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2022-04-28 | 企业国密回退 |
-| [企业UAT国密](https://www.pgyer.com/qyBank_gm)  | 2021-07-30 | 隐私政策更新 |
-| [企业ZSC](https://www.pgyer.com/qyBank_zsc)   | 2022-04-22 | 卡检 |
+| [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2022-04-18 | 卡检 |
+| [企业UAT国密](https://www.pgyer.com/qyBank_gm)  | 2022-04-28 | 企业国密回退 |
 | [企业生产包](https://www.pgyer.com/qyBank_release)   | 2022-04-28 | 卡检 生产已加固 |
 
 **友情链接**
