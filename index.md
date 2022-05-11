@@ -4,8 +4,7 @@
 |  ----  | ----  |----  |
 | [直销生产包](https://www.pgyer.com/dsbank_release)  | 2022-04-29 | 回溯js更新 生产已加固 |
 | [直销ZSC内网](https://www.pgyer.com/dsbank_zsc)   | 2022-04-29 |回溯js更新 |
-| [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2021-04-29 | 回溯js更新 |
-| [直销UAT外网国密](https://www.pgyer.com/dsbank_gm)  | 2021-04-22 | 直销国密 |
+| [直销UAT外网](https://www.pgyer.com/dsbank_uat_w)  | 2021-05-11 | 国密 五月版 64位 |
 | [直销UAT外网回归测试](https://www.pgyer.com/dsbank_u_regressio)  | 2021-05-11 | 四月版 用于回归测试 |
 | [个人手机银行UAT外网国密](https://www.pgyer.com/pmobile_gmUATW)  | 2022-04-28 | 个人国密 |
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2022-05-11 | 国密 卡检 |
