@@ -6,8 +6,8 @@
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2022-05-20 |五月版 64位 国密 |
 | [直销ZSC外网旧包](https://www.pgyer.com/dsbank_z_regressio)  | 2021-05-20 | 四月版旧包 |
 | [个人手机银行UAT外网国密](https://www.pgyer.com/XW1V)  | 2022-05-13 | 个人国密 |
-| [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2022-05-11 | 国密 卡检 |
-| [企业UAT旧包](https://www.pgyer.com/qyBank_hg)  | 2022-05-17 | 四月版本 |
+| [企业准生产](https://www.pgyer.com/qyBank_zsc)  | 2022-05-21 | 国密 卡检 |
+| [企业准生产旧包](https://www.pgyer.com/qyBank_hg)  | 2022-05-21 | 四月版本 |
 | [企业生产包](https://www.pgyer.com/qyBank_release)   | 2022-04-28 | 卡检 生产已加固 |
 
 **友情链接**
