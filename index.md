@@ -2,7 +2,7 @@
 
 |  包   | 更新时间  | 内容  |
 |  ----  | ----  |----  |
-| [直销生产包](https://www.pgyer.com/dsbank_release)  | 2022-04-29 | 回溯js更新 生产已加固 |
+| [直销生产包](https://www.pgyer.com/dsbank_release)  | 2022-05-26 | 五月版 64位 国密 生产未加固 |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2022-05-20 |五月版 64位 国密 |
 | [直销ZSC外网旧包](https://www.pgyer.com/dsbank_z_regressio)  | 2021-05-20 | 四月版旧包 |
 | [个人手机银行UAT外网国密](https://www.pgyer.com/XW1V)  | 2022-05-13 | 个人国密 |
