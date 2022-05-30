@@ -2,13 +2,13 @@
 
 |  包   | 更新时间  | 内容  |
 |  ----  | ----  |----  |
-| [直销生产包](https://www.pgyer.com/dsbank_release)  | 2022-05-26 | 五月版 64位 国密 生产未加固 |
+| [直销生产包](https://www.pgyer.com/dsbank_release)  | 2022-05-30 | 五月版 64位 国密 生产已加固（爱加密） |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2022-05-20 |五月版 64位 国密 |
 | [直销ZSC外网旧包](https://www.pgyer.com/dsbank_z_regressio)  | 2021-05-20 | 四月版旧包 |
 | [个人手机银行UAT外网国密](https://www.pgyer.com/XW1V)  | 2022-05-13 | 个人国密 |
 | [企业准生产](https://www.pgyer.com/qyBank_zsc)  | 2022-05-21 | 国密 卡检 |
 | [企业准生产旧包](https://www.pgyer.com/qyBank_hg)  | 2022-05-21 | 四月版本 |
-| [企业生产包](https://www.pgyer.com/qyBank_release)   | 2022-05-26 | 卡检 国密 生产未加固 |
+| [企业生产包](https://www.pgyer.com/qyBank_release)   | 2022-05-30 | 卡检 国密 生产已加固（爱加密） |
 
 **友情链接**
 + [直销银行IOS](http://d.7short.com/hrxjubank)
