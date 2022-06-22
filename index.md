@@ -1,6 +1,6 @@
-暂时关闭未加固包下载
+关闭下载
 
-|  包   | 更新时间  | 内容  |
+<!-- |  包   | 更新时间  | 内容  |
 |  ----  | ----  |----  |
 | [直销生产包](https://www.pgyer.com/dsbank_release)  | 2022-05-30 | 五月版 64位 国密 生产已加固（爱加密） |
 | [直销ZSC外网](https://www.pgyer.com/dsbank_zsc_w)   | 2022-05-20 |五月版 64位 国密 |
@@ -9,11 +9,11 @@
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2022-06-20 | 蓝牙KEY 国密 |
 | [企业准生产](https://www.pgyer.com/qyBank_zsc)  | 2022-06-22| 蓝牙KEY 国密 |
 | [企业UAT旧包](https://www.pgyer.com/qyBank_hg)  | 2022-06-20 | 五月版本 旧包 |
-| [企业生产包](https://www.pgyer.com/qyBank_release)   | 2022-05-30 | 卡检 国密 生产已加固（爱加密） |
+| [企业生产包](https://www.pgyer.com/qyBank_release)   | 2022-05-30 | 卡检 国密 生产已加固（爱加密） | -->
 
 **友情链接**
-+ [直销银行IOS](http://d.7short.com/hrxjubank)
-+ [手机银行IOS](http://d.7short.com/hrxjpmbank)
+<!-- + [直销银行IOS](http://d.7short.com/hrxjubank)
++ [手机银行IOS](http://d.7short.com/hrxjpmbank) -->
 
 **有问题请先看下面**
 + 非特殊情况请不要对wifi设置代理
