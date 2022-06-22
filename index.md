@@ -7,7 +7,7 @@
 | [直销ZSC外网旧包](https://www.pgyer.com/dsbank_z_regressio)  | 2021-05-20 | 四月版旧包 |
 | [个人手机银行UAT外网国密](https://www.pgyer.com/XW1V)  | 2022-05-13 | 个人国密 |
 | [企业UAT](https://www.pgyer.com/qyBank_uat)  | 2022-06-20 | 蓝牙KEY 国密 |
-| [企业准生产](https://www.pgyer.com/qyBank_zsc)  | 2022-06-21| 蓝牙KEY 国密 |
+| [企业准生产](https://www.pgyer.com/qyBank_zsc)  | 2022-06-22| 蓝牙KEY 国密 |
 | [企业UAT旧包](https://www.pgyer.com/qyBank_hg)  | 2022-06-20 | 五月版本 旧包 |
 | [企业生产包](https://www.pgyer.com/qyBank_release)   | 2022-05-30 | 卡检 国密 生产已加固（爱加密） |
 
